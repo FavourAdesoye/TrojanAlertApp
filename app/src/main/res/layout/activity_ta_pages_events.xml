@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ta_pages_events">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/ta_border">
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="421dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="160dp"
+            android:gravity="center_horizontal|top"
+            android:scaleType="fitCenter"
+            android:src="@drawable/homecoming" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="310dp"
+            android:layout_height="123dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="55dp"
+            android:gravity="center_horizontal|top"
+            android:scaleType="fitCenter"
+            android:src="@drawable/event" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

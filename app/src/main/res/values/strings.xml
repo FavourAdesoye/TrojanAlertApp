@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">testing</string>
+
+    <string name="vsu_news">VSU NEWS</string>
+    <string name="campus_map">CAMPUS MAP</string>
+    <string name="dining_hall">DINING HALL</string>
+    <string name="transit">TRANSIT</string>
+    <string name="financial_aid">FINANCIAL AID</string>
+    <string name="emergency">EMERGENCY</string>
+    <string name="event">EVENT</string>
+    <string name="it_help">IT HELP</string>
+    <string name="blackboard">BLACKBOARD</string>
+
+</resources>
